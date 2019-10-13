@@ -1,1 +1,3 @@
-the responsive half of the portfolio
+#responsive_portfolio
+
+the responsive half of the homework.
